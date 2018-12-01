@@ -10,5 +10,10 @@ This bot does stupid shit
 1. clone the repository: ```git clone https://github.com/KoduIsGreat/bot.git```
 2. install dependencies: ```npm install``` (from project root)
 3. Create a discord app by following the following tutorial https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
-4. use the token you got from the tutorial to create a auth.json file
+4. use the token you got from the tutorial to create a auth.json file that looks like this
+```js
+{
+  "token" : "your_token_here"
+}
+```
 5. start the bot ```node bot.js```
