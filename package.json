@@ -1,0 +1,11 @@
+{
+  "name": "fyf-adahm-bot",
+  "version": "1.0.0",
+  "description": "ADAHM",
+  "main": "bot.js",
+  "author": "Adahm, Chichi",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
