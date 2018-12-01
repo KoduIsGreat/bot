@@ -4,8 +4,8 @@
   "description": "ADAHM",
   "main": "bot.js",
   "author": "Adahm, Chichi",
+  "repository": "https://github.com/KoduIsGreat/bot",
   "dependencies": {
-    "discord.io": "github:woor/discord.io#gateway_v6",
-    "winston": "^3.1.0"
+    "discord.io": "github:woor/discord.io#gateway_v6"
   }
 }
